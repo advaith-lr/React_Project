@@ -10,7 +10,7 @@ type HeaderProps = {
 export const Header = ( { titleGreeting, onDateChange } : HeaderProps ) => {
 
   
-  let selectedOptionvalue = 'tomorroww'
+  let selectedOptionvalue = 'tomorrow'
   
     return (
         // <div classNameName= 'row navbar navbar-inverse"'>
