@@ -1,0 +1,14 @@
+.ad-header{
+    background-color: black;
+    color: ivory;
+    /* margin-bottom: 30px; */
+}
+
+.ad-logo{
+    float: right;   
+}
+
+.ad-select{
+    padding-top : 0 !important;
+    padding-bottom: 0 !important;
+}
